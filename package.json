@@ -1,0 +1,17 @@
+{
+  "name": "jufonode",
+  "version": "1.0.0",
+  "description": "Mon projet d'apprentissage",
+  "main": "index.js",
+  "scripts": {
+    "test": "jufo"
+  },
+  "keywords": [
+    "[]"
+  ],
+  "author": "francjuniorepanti@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
